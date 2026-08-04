@@ -46,4 +46,6 @@ npm run dev
 ## Author
 
 **Unnati Gupta**
-B.Tech CSE, GL Bajaj Group of Institutions, Mathura
+## Screenshot
+
+![MicroNotes Home](./screenshots/home.png)
