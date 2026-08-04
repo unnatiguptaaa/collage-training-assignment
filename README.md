@@ -46,4 +46,11 @@ npm run dev
 ## Author
 
 **Unnati Gupta**
+<<<<<<< HEAD
 ![MicroNotes](./screenshots/home.png.png)
+=======
+## Screenshot
+
+![MicroNotes Home](./screenshots/home.png.png
+)
+>>>>>>> 294bca3753a606fa21612cbd2fb2e9dd18c2aa05
