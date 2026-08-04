@@ -11,7 +11,7 @@ A simple MERN-style Notes application built using React and Express.js.
 
 ## Project Structure
 
-```
+```text
 micro-notes/
 ├── client/
 ├── server/
@@ -30,6 +30,7 @@ micro-notes/
 ## Installation
 
 ### Backend
+
 ```bash
 cd server
 npm install
@@ -37,6 +38,7 @@ npm start
 ```
 
 ### Frontend
+
 ```bash
 cd client
 npm install
@@ -46,11 +48,7 @@ npm run dev
 ## Author
 
 **Unnati Gupta**
-<<<<<<< HEAD
-![MicroNotes](./screenshots/home.png.png)
-=======
+
 ## Screenshot
 
-![MicroNotes Home](./screenshots/home.png.png
-)
->>>>>>> 294bca3753a606fa21612cbd2fb2e9dd18c2aa05
+![MicroNotes Home](./screenshots/home.png.png)6fa21612cbd2fb2e9dd18c2aa05
