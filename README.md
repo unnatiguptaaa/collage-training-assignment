@@ -46,4 +46,4 @@ npm run dev
 ## Author
 
 **Unnati Gupta**
-B.Tech CSE, GL Bajaj Group of Institutions, Mathura
+![MicroNotes](./screenshots/home.png.png)
