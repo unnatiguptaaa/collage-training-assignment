@@ -48,4 +48,5 @@ npm run dev
 **Unnati Gupta**
 ## Screenshot
 
-![MicroNotes Home](./screenshots/home.png)
+![MicroNotes Home](./screenshots/home.png.png
+)
