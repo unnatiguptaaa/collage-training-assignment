@@ -1,3 +1,9 @@
+
+## Screenshot
+
+![MicroNotes Home](./screenshot/home.png.png)
+
+
 # MicroNotes Assignment
 
 A simple MERN-style Notes application built using React and Express.js.
@@ -49,6 +55,3 @@ npm run dev
 
 **Unnati Gupta**
 
-## Screenshot
-
-![MicroNotes Home](./screenshot/home.png.png)
