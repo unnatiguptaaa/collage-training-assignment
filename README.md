@@ -51,4 +51,4 @@ npm run dev
 
 ## Screenshot
 
-![MicroNotes Home](./screenshots/home.png.png)
+![MicroNotes Home](./screenshot/home.png.png)
